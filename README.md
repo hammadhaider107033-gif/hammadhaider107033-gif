@@ -1,18 +1,4 @@
-## Hi there 👋
-
-<!--
-**hammadhaider107033-gif/hammadhaider107033-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...# 💫 About Me:
+# 💫 About Me:
 <br>i am student of software engineering at FAST NUCES in 3rd semester.<br>I have command on CSS , HTML for web development.<br>I am a vibe coder and use C++  for programming.<br>I work on implementation of my idea to push it in the market as a startup.
 
 
@@ -30,4 +16,3 @@ Here are some ideas to get you started:
 [![](https://komarev.com/ghpvc/?username=hammadhaider107033-gif&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
--->
